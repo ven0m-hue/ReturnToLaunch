@@ -11,7 +11,8 @@ Install the required libs if not installed. Try to install it within a python en
 
 Below is the Block Diagram between AutoPilot and the RasPI
 
-![image](https://github.com/RedWvn/ProjectButton/assets/107253723/ec7ddc3a-661e-469b-9ea2-ec3722cbd144)
+![image](https://github.com/RedWvn/ProjectButton/assets/107253723/6bb53f9e-67ce-41b4-ba1f-3c5060daa5fb)
+
 
 Below is the Block Diagram for the SITL 
 
