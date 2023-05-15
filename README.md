@@ -9,7 +9,7 @@ Install the required libs if not installed. Try to install it within a python en
 
 # Connection Diagram
 
-Below is the Block Diagram between AutoPilot and the RasPI
+Below is the Block Diagram between AutoPilot and the RasPI : https://whimsical.com/button-connection-diagram-HdRsdC3J8zB2EeQNHnM4aq
 
 ![image](https://github.com/RedWvn/ProjectButton/assets/107253723/6bb53f9e-67ce-41b4-ba1f-3c5060daa5fb)
 
