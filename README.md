@@ -9,7 +9,7 @@ Install the required libs if not installed. Try to install it within a python en
 While there are N number of ways to do this, what worked in our case is running the command in the backend in a .bashrc script. 
 
 ### Edit the .bashrc file and write the following command 
-#### sudo python3 Button.py
+#### "sudo python3 Button.py"
 
 #### Note - Change the path given to the variable name mission_dir. found here : https://github.com/RedWvn/ProjectButton/blob/main/Button.py#L69 to a desired mission folder file where all the return leg missions are stored.
 
