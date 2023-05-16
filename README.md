@@ -15,14 +15,15 @@ While there are N number of ways to do this, what worked in our case is running 
 
 # Connection Diagram
 
-Below is the Block Diagram between AutoPilot and the RasPI : https://whimsical.com/button-connection-diagram-HdRsdC3J8zB2EeQNHnM4aq
+#### Below is the Block Diagram between AutoPilot and the RasPI : https://whimsical.com/button-connection-diagram-HdRsdC3J8zB2EeQNHnM4aq
 
-![image](https://github.com/RedWvn/ProjectButton/assets/107253723/6bb53f9e-67ce-41b4-ba1f-3c5060daa5fb)
+![image](https://github.com/RedWvn/ProjectButton/assets/107253723/77b6f911-43b6-4c25-8969-8ed6031e81ae)
 
 
-Below is the Block Diagram for the SITL 
 
-![image](https://github.com/RedWvn/ProjectButton/assets/107253723/b6821cd3-af04-4aab-9c81-5e630d4030d9)
+#### Below is the Block Diagram for the SITL 
+
+![image](https://github.com/RedWvn/ProjectButton/assets/107253723/46f1dbee-cc77-4ea2-ab07-ab169001011b)
 
 
 # Read the Docs 
